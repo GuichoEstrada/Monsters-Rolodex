@@ -1,0 +1,8 @@
+.title {
+    font-size: 72px;
+    font-family: 'Operator Mono Lig', sans-serif;
+    background: linear-gradient(#D1913C, #FFD194);
+    /* text-shadow: 2px 2px #000; */
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
